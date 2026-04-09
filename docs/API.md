@@ -9,3 +9,8 @@
 ::: usdeathspy.scrape_all_sections
 
 ::: usdeathspy.load_cdc_data
+
+::: usdeathspy.get_available_years
+
+::: usdeathspy.get_fields
+
